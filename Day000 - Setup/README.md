@@ -21,7 +21,7 @@ Follow these steps to set up your environment:
 3. **Clone or Download the Repository**: Clone or download the RTLwith100Project repository from GitHub to your local machine. You can use the following command to clone the repository using Git:
 
    ```bash
-   git clone https://github.com/AfshinKI/RTLwith100Projects.git
+   git clone https://github.com/AfshinKI/FPGAwith100Projects.git
 
 ## Workflow Explanation
 
